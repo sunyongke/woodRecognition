@@ -7,6 +7,8 @@ Recognise the wood species using the machine learning.
 
 # Datasource
 
+Polished the wood block cross-section with 200 grits and 400 grits sandpaper sequentially, and cleared the dusts with toothbrush.  firstly, marking a circle on the wood block as the fingerprint area, the aim is ensuring the same place can be chosen next time. The next step is putting the magnifying glass on the marked place to acquire the image using a 20X magnifying glass. And the last step is capture image with a cellphone, in the experiments, the cellphone is Huawei honor 8.
+
 ## wood species
 
 |      |   Species name   |  Count    |
